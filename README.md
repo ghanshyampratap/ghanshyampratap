@@ -11,10 +11,10 @@
 ---
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="banner" />
+  <img src="https://raw.githubusercontent.com/ghanshyampratap/ghanshyampratap/main/assets/banner.png" alt="banner" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Ghanshyam Pratap</h1>
 <h3 align="center">🚀 Embedded Systems & IoT Developer | Tech Explorer</h3>
 
 ---
@@ -56,15 +56,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghanshyampratap&show_icons=true&theme=react" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghanshyampratap&theme=react" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyampratap&layout=compact&theme=react" alt="Top Languages" />
 </p>
 
 ---
@@ -72,8 +72,9 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/ghanshyampratap/ghanshyampratap/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
+
 
 ---
 
