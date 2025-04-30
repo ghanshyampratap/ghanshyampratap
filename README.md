@@ -11,12 +11,11 @@
 ---
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/4Z0fPQx/banner.png" alt="banner" />
+  <img src="https://raw.githubusercontent.com/ghanshyampratap/ghanshyampratap/main/assets/ChatGPT%20Image%20May%201%2C%202025%2C%2004_50_12%20AM.png" alt="banner" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Ghanshyam Pratap</h1>
 <h3 align="center">🚀 Embedded Systems & IoT Developer | Tech Explorer</h3>
-
 
 ---
 
