@@ -11,7 +11,7 @@
 ---
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ghanshyampratap/ghanshyampratap/main/assets/banner.png" alt="banner" />
+  <img src="https://i.ibb.co/4Z0fPQx/banner.png" alt="banner" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Ghanshyam Pratap</h1>
