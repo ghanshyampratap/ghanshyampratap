@@ -12,7 +12,7 @@
 - Hackathons & Research Prototypes  
 
 📫 Reach me at: [ghanshyamsingh85165@gmail.com](mailto:ghanshyamsingh85165@gmail.com)  
-📷 I.G – [@ghanshyam_pratap_singh](https://www.instagram.com/ghanshyam_pratap_singh)  
+📷 I.G – [@ghanshyam__pratap_singh](https://www.instagram.com/ghanshyam_pratap_singh)  
 🌐 Here's my portfolio: [View Portfolio](#) 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ghanshyam-pratap&label=Profile%20views&color=0e75b6&style=flat)
