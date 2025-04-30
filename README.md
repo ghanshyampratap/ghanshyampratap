@@ -69,10 +69,15 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈  Contribution Graph
 
-![snake gif](https://raw.githubusercontent.com/ghanshyampratap/ghanshyampratap/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ghanshyampratap/ghanshyampratap/main/assets/animations/false-contribution.gif" alt="False Contribution Animation" />
+</p>
 
+<p align="center">
+  <b>Total False Contributions: 5,000</b>
+</p>
 
 
 
