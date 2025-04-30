@@ -9,6 +9,15 @@
 🔗 LinkedIn – [ghanshyampratapsingh](https://www.linkedin.com/in/ghanshyampratapsingh)
 
 ---
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://your-image-url.com/banner.png" alt="banner" />
+</p>
+
+<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h3 align="center">🚀 Embedded Systems & IoT Developer | Tech Explorer</h3>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -42,7 +51,29 @@
 ![ATmega328](https://img.shields.io/badge/ATmega328-999999?style=for-the-badge)
 ![Custom PCBs](https://img.shields.io/badge/Custom%20PCBs-009688?style=for-the-badge)
 
+---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react" alt="Top Languages" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
 ---
 
