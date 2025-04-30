@@ -10,12 +10,38 @@
 
 ---
 
-## 🛠️ **Tech Stack**
-- **Languages**: C, C++, Python, Verilog, Embedded C
-- **Microcontrollers**: ESP32, Arduino, STM32
-- **Tools**: Arduino IDE, VS Code, PlatformIO, KiCAD, Vivado
-- **Cloud/DB**: Firebase, MQTT, Realtime DB
-- **Boards**: NodeMCU, Raspberry Pi, ATmega328, Custom PCBs
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-008080?style=for-the-badge)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-005C94?style=for-the-badge)
+
+### 🔌 Microcontrollers
+![ESP32](https://img.shields.io/badge/ESP32-3C3C3C?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge)
+
+### 🧰 Tools & IDEs
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=for-the-badge&logo=platformio&logoColor=white)
+![KiCAD](https://img.shields.io/badge/KiCAD-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-FAB400?style=for-the-badge)
+
+### ☁️ Cloud & Databases
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
+![Realtime DB](https://img.shields.io/badge/Realtime%20DB-FF9900?style=for-the-badge)
+
+### 🧪 Development Boards
+![NodeMCU](https://img.shields.io/badge/NodeMCU-3C3C3C?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![ATmega328](https://img.shields.io/badge/ATmega328-999999?style=for-the-badge)
+![Custom PCBs](https://img.shields.io/badge/Custom%20PCBs-009688?style=for-the-badge)
+
 
 
 ---
