@@ -72,8 +72,9 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/ghanshyampratap/ghanshyampratap/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/ghanshyampratap/ghanshyampratap/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
+
 
 
 ---
