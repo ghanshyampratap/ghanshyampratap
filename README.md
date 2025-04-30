@@ -1,19 +1,26 @@
-# Hi, I’m Ghanshyam Pratap Singh 👋
+# 📝 Bio
 
-### Passionate about **Robotics 🤖 | IoT 🌐 | VLSI 🏗️**
-
-I’m an **Electronics & Communication** student with hands-on experience in real-time systems, robotics, and IoT. I enjoy building innovative solutions and working on projects that make a real-world impact.
+👋 Hi, I’m @ghanshyam-pratap  
+🤖 Passionate about **Robotics | IoT | VLSI | Embedded Systems**  
+🌱 Currently working on **Real-Time Systems** and **Automation Projects**  
+💞️ Looking to collaborate on **Open Source Projects** and **Robotics Startups**  
+📫 Reach me at: [ghanshyamsingh85165@gmail.com](mailto:ghanshyamsingh85165@gmail.com)  
+📷 Instagram – [@ghanshyam__pratap_singh](https://www.instagram.com/ghanshyam__pratap_singh)  
+🔗 LinkedIn – [ghanshyampratapsingh](https://www.linkedin.com/in/ghanshyampratapsingh)
 
 ---
 
-## 🛠️ **Skills:**
-- **Languages**: C/C++, Verilog, Matlab  
-- **Tools**: Arduino IDE, VS Code, Cadence Virtuoso  
-- **Soft Skills**: Problem Solving, Teamwork, Leadership
+## 🛠️ **Tech Stack**
+- **Languages**: C, C++, Python, Verilog, Embedded C
+- **Microcontrollers**: ESP32, Arduino, STM32
+- **Tools**: Arduino IDE, VS Code, PlatformIO, KiCAD, Vivado
+- **Cloud/DB**: Firebase, MQTT, Realtime DB
+- **Boards**: NodeMCU, Raspberry Pi, ATmega328, Custom PCBs
+
 
 ---
 
 ## 💬 **Let’s Connect!**
 - 📧 [Email](mailto:ghanshyamsingh85165@gmail.com)  
-- 📷 [Instagram](https://www.instagram.com/ghanshyam_pratap_singh)  
+- 📷 [Instagram](https://www.instagram.com/ghanshyam__pratap_singh)  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ghanshyampratapsingh)
