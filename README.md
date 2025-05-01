@@ -68,10 +68,8 @@
 </p>
 
 ---
+![Total Commits](https://img.shields.io/badge/Total%20Commits-500%2B%2B-brightgreen?style=for-the-badge&logo=github)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Total+False+Contributions%3A+5000;Made+to+look+busy+coding+%F0%9F%98%8A" alt="Typing SVG" />
-</p>
 
 
 ---
