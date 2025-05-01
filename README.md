@@ -69,16 +69,9 @@
 
 ---
 
-## 📈  Contribution Graph
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ghanshyampratap/ghanshyampratap/main/assets/animations/false-contribution.gif" alt="False Contribution Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Total+False+Contributions%3A+5000;Made+to+look+busy+coding+%F0%9F%98%8A" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <b>Total False Contributions: 5,000</b>
-</p>
-
 
 
 ---
