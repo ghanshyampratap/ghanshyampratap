@@ -53,19 +53,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghanshyampratap&show_icons=true&theme=react" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghanshyampratap&show_icons=true&theme=react&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghanshyampratap&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghanshyampratap&theme=react" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyampratap&layout=compact&theme=react&hide_border=true&border_radius=10" alt="Top Languages" width="50%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyampratap&layout=compact&theme=react" alt="Top Languages" />
-</p>
 
 ---
 ![Total Commits](https://img.shields.io/badge/Total%20Commits-500%2B%2B-brightgreen?style=for-the-badge&logo=github)
