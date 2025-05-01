@@ -66,6 +66,18 @@
 
 
 ---
+## 🗓️ GitHub Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00ccff/ghanshyampratap" alt="GitHub Contribution Chart" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ghanshyampratap&theme=radical&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies" />
+</p>
+
 ![Total Commits](https://img.shields.io/badge/Total%20Commits-500%2B%2B-brightgreen?style=for-the-badge&logo=github)
 
 <p align="center">
