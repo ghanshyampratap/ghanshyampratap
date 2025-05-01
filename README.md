@@ -74,11 +74,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=TOTAL+COMMITS%3A+500%2B%2B;Made+to+look+busy+coding+%F0%9F%98%8A" alt="Typing SVG" />
 </p>
 
-+--------------------------+
-|     TOTAL COMMITS        |
-|         500++            |
-+--------------------------+
-
 ---
 
 ## 💬 **Let’s Connect!**
