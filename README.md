@@ -5,14 +5,49 @@
 
 
 # 📝 Bio
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=200&section=header&text=👋%20Hi,%20I'm%20Ghanshyam%20Pratap&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-👋 Hi, I’m **@ghanshyam-pratap**  
-🤖 Passionate about **Robotics | IoT | VLSI | Embedded Systems**  
-🌱 Currently working on **Real-Time Systems** and **Automation Projects**  
-💞️ Open to **Open Source** and **Robotics Startup Collaborations**  
-📫 [Email Me](mailto:ghanshyamsingh85165@gmail.com)  
-📷 [Instagram](https://www.instagram.com/ghanshyam__pratap_singh)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ghanshyampratapsingh)
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=500&color=00FFB3&center=true&vCenter=true&width=1000&lines=🚀+Innovator+|+Engineer+|+Creator;🤖+Robotics+%7C+IoT+%7C+VLSI+%7C+Embedded+Systems;⚡+Real-Time+Systems+%26+Automation+Projects;🌎+Open+Source+%7C+Robotics+Startup+Collaboration;🔥+Turning+Ideas+Into+Reality+Through+Tech" />
+</p>
+
+---
+
+# 🌟 About Me  
+
+- 🤖 Passionate about **Robotics | IoT | VLSI | Embedded Systems**  
+- ⚡ Currently working on **Real-Time Systems & Automation Projects**  
+- 💡 Exploring **Robotics Startup Ideas** and contributing to **Open Source**  
+- 🌱 Lifelong learner, constantly experimenting with **new technologies**  
+
+---
+
+# 🌐 Connect With Me  
+
+<p align="center">
+  <a href="mailto:ghanshyamsingh85165@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/ghanshyam__pratap_singh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ghanshyampratapsingh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="200" />  
+</p>
+
+<h3 align="center">✨ “Code. Commit. Create. The Future is Mine to Build.” ✨</h3>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer" />
+</p>
 
 ---
 
