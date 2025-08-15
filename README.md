@@ -57,14 +57,19 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/500%2B_Commits-Active_Contributor-brightgreen?style=for-the-badge&logo=github" />
+  
   <img src="https://img.shields.io/badge/Top_Languages-Python_C%2B%2B-blue?style=for-the-badge&logo=python" />
+  
   <img src="https://img.shields.io/badge/Open_Source_Projects-15%2B-orange?style=for-the-badge&logo=opensourceinitiative" />
+  
   <img src="https://img.shields.io/badge/Problem_Solving-Expert-yellow?style=for-the-badge&logo=hackerrank" />
+  
   <img src="https://img.shields.io/badge/Robotics_IoT_Projects-10%2B-red?style=for-the-badge&logo=arduino" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ghanshyampratap&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="175" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ghanshyampratap&theme=radical&hide_border=true&border_radius=15" height="175" />
 </p>
 
