@@ -76,11 +76,23 @@
 ## 📅 Contributions & Stats
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api/typing_text?type=waving&color=0:ff9966,100:ff5e62&height=60&section=footer&text=💻+Total+Contributions:+1000%2B+|+🔀+Pull+Requests:+150&fontSize=28&fontAlignY=40" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api/typing_text?type=waving&color=0:f39c12,100:e67e22&height=60&section=footer&text=🐛+Issues:+75+|+🚀+Open+Source+Projects:+15%2B&fontSize=28&fontAlignY=40" />
+  <!-- Total Contributions -->
+  <img src="https://img.shields.io/badge/Total_Contributions-1000%2B-brightgreen?style=for-the-badge&logo=github" />&nbsp;&nbsp;
+  
+  <!-- Pull Requests -->
+  <img src="https://img.shields.io/badge/Pull_Requests-150-blue?style=for-the-badge&logo=github" />&nbsp;&nbsp;
+  
+  <!-- Issues -->
+  <img src="https://img.shields.io/badge/Issues-75-orange?style=for-the-badge&logo=github" />&nbsp;&nbsp;
+  
+  <!-- Open Source Projects -->
+  <img src="https://img.shields.io/badge/Open_Source_Projects-15%2B-red?style=for-the-badge&logo=github" />&nbsp;&nbsp;
+  
+  <!-- Repositories -->
+  <img src="https://img.shields.io/badge/Repositories-25-purple?style=for-the-badge&logo=github" />&nbsp;&nbsp;
+  
+  <!-- Forks -->
+  <img src="https://img.shields.io/badge/Forks-30-lightgrey?style=for-the-badge&logo=github" />&nbsp;&nbsp;
 </p>
 
 ---
