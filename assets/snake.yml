@@ -1,0 +1,32 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # Runs every 12 hours
+  workflow_dispatch:        # Allows manual run
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      # Check out the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Generate Snake Animation
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ghanshyampratap
+          outputs: dist/snake.svg
+
+      # Push Snake Animation to Output Branch
+      - name: Push Snake Animation to Output Branch
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: actions@github.com
+          message: "Generate Snake Animation"
+          add: "dist/snake.svg"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
