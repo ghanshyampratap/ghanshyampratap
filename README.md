@@ -56,20 +56,20 @@
 ## 🚀 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=🔥+Passionate+Developer+%7C+Innovator;📈+Consistent+Open+Source+Contributor;💡+Always+Learning+and+Building+Impactful+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=🔥+Innovator+%26+Tech+Enthusiast;📈+500%2B+Commits+%26+Consistent+Contributor;💡+Turning+Ideas+Into+Impactful+Projects;🌎+Open+Source+Lover+%7C+Always+Learning" alt="Typing SVG" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghanshyampratap&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghanshyampratap&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghanshyampratap&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghanshyampratap&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" height="175" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyampratap&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyampratap&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" height="165" />
 </p>
 
 ---
@@ -82,23 +82,28 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies (Only Relevant Ones)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ghanshyampratap&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&margin-h=10&column=6&title=MultiLanguage,Commits,Stars,PullRequest,Repositories,Issues" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ghanshyampratap&theme=tokyonight&no-bg=true&no-frame=true&margin-w=12&margin-h=12&column=6&title=Commits,Stars,PullRequest,Repositories,Issues,MultiLanguage" alt="GitHub Trophies" />
 </p>
 
 ---
+
+## 💎 Impact Badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/Total%20Commits-500%2B-brightgreen?style=for-the-badge&logo=github" alt="Total Commits Badge" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Over+500+Commits+and+Growing!;Actively+Building+and+Improving+Every+Day+🚀;Turning+Ideas+Into+Reality" alt="Motivational Typing" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Projects-15%2B-blue?style=for-the-badge&logo=github" alt="Projects Badge" />
+  <img src="https://img.shields.io/badge/Contributions-Active%20Daily-orange?style=for-the-badge&logo=github" alt="Contributions Badge" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Over+500+Commits+and+Counting+🚀;Building+Innovative+Projects+Every+Week;Making+an+Impact+Through+Code+💡" alt="Motivational Typing" />
+</p>
+
 
 ## 💬 **Let’s Connect!**
 - 📧 [Email](mailto:ghanshyamsingh85165@gmail.com)  
