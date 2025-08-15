@@ -6,10 +6,10 @@
 
 # 🌟 About Me  
 
-- 🤖 Passionate about *Robotics | IoT | VLSI | Embedded Systems*  
-- ⚡ Currently working on *Real-Time Systems & Automation Projects*  
-- 💡 Exploring *Robotics Startup Ideas* and contributing to *Open Source*  
-- 🌱 Lifelong learner, constantly experimenting with *new technologies*  
+- 🤖 **Tech Enthusiast:** **Passionate** about **Robotics | IoT | VLSI | Embedded Systems**  
+- ⚡ **Innovator & Problem-Solver:** **Building Real-Time Systems & Automation Projects** that make an impact  
+- 💡 **Startup Explorer:** **Experimenting with Robotics & IoT startup ideas** and **contributing actively to Open Source**  
+- 🌱 **Lifelong Learner:** **Constantly exploring emerging technologies** and **turning ideas into reality**
 
 ---
 
@@ -21,7 +21,6 @@
   <a href="https://www.linkedin.com/in/ghanshyampratapsingh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="200" />  
