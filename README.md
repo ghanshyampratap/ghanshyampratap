@@ -41,9 +41,8 @@
 <h1 align="center">🚀 Embedded Systems & IoT Developer | Tech Explorer</h1>
 
 ---
-## 🛠 Tech Stack
 
-## 🛠 Tech Stack
+## **🛠 TECH STACK**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c" title="C" width="50" height="50" /> <sub><b>C</b></sub>&nbsp;&nbsp;
@@ -60,9 +59,8 @@
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="50" height="50" /> <sub><b>VS Code</b></sub>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" title="HTML" width="50" height="50" /> <sub><b>HTML</b></sub>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" title="CSS" width="50" height="50" /> <sub><b>CSS</b></sub>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="50" height="50" /> <sub><b>JavaScript</b></sub>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" title="Java" width="50" height="50" /> <sub><b>Java</b></sub>
-</p>
+  <img src="https://skillicons
+
 
 ## 🚀 GitHub Stats & Achievements
 
