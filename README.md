@@ -92,9 +92,14 @@
 
 <p align="center">
   <!-- Total Contributions Badge -->
-  <img src="https://img.shields.io/badge/Total_Contributions-500%2B-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total_Contributions-500%2B-brightgreen?style=for-the-badge&logo=github" />&nbsp;&nbsp;
+  <!-- Total Pull Requests -->
+  <img src="https://img.shields.io/badge/Pull_Requests-150-blue?style=for-the-badge&logo=github" />&nbsp;&nbsp;
+  <!-- Total Issues -->
+  <img src="https://img.shields.io/badge/Issues-75-orange?style=for-the-badge&logo=github" />&nbsp;&nbsp;
+  <!-- Open Source Projects -->
+  <img src="https://img.shields.io/badge/Open_Source_Projects-15%2B-red?style=for-the-badge&logo=github" />
 </p>
-
 
 ---
 
