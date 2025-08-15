@@ -89,10 +89,8 @@
   <!-- Open Source Projects -->
   <img src="https://img.shields.io/badge/Open_Source_Projects-15%2B-red?style=for-the-badge&logo=github" />
 </p>
-## 📅 Contributions
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Contributions-267%2B-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://capsule-render.vercel.app/api/typing_text?type=waving&color=0:ff9966,100:ff5e62&height=50&section=footer&text=💻+Contributions:+1000%2B&fontSize=25&fontAlignY=35" />
 </p>
 
 
