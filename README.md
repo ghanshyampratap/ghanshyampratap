@@ -29,6 +29,8 @@
 <h1 align="center">🚀 Embedded Systems & IoT Developer | Tech Explorer</h1>
 
 
+
+
 ## **🛠 TECH STACK**
 
 <p align="center">
@@ -49,6 +51,8 @@
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="55" height="55" /> <sub><b>JavaScript</b></sub>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=java" title="Java" width="55" height="55" /> <sub><b>Java</b></sub>
 </p>
+
+
 
 
 ## 🚀 GitHub Stats & Achievements
@@ -75,6 +79,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyampratap&layout=compact&theme=radical&hide_border=true&border_radius=15" height="165" />
 </p>
+
+
 
 ---
 ## 📅 Contributions & Stats
