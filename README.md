@@ -28,11 +28,6 @@
 <h3 align="center">✨ “Code. Commit. Create. The Future is Mine to Build.” ✨</h3>
 
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer" />
-</p>
-
 <!-- Banner Image -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ghanshyampratap/ghanshyampratap/main/assets/ChatGPT%20Image%20May%201%2C%202025%2C%2004_50_12%20AM.png" alt="banner" width="80%" />
@@ -100,6 +95,12 @@
   <!-- Open Source Projects -->
   <img src="https://img.shields.io/badge/Open_Source_Projects-15%2B-red?style=for-the-badge&logo=github" />
 </p>
+## 📅 Contributions
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Contributions-267%2B-brightgreen?style=for-the-badge&logo=github" />
+</p>
+
 
 ---
 
