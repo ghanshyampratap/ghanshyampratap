@@ -4,7 +4,6 @@
 - ⚡ **Real-Time Systems & Automation Projects**  
 - 💡 **Robotics & IoT Startup Ideas | Open Source Contributor**  
 - 🌱 **Emerging Technologies | Lifelong Learner**
-- 
 ---
 # 🌐 Connect With Me  
 
@@ -73,25 +72,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyampratap&layout=compact&theme=radical&hide_border=true&border_radius=15" height="165" />
 </p>
 
-
-
 ---
 
 ## 📅 Contributions
 
 <p align="center">
-  <!-- Total Contributions Badge -->
-  <img src="https://img.shields.io/badge/Total_Contributions-500%2B-brightgreen?style=for-the-badge&logo=github" />&nbsp;&nbsp;
-  <!-- Total Pull Requests -->
-  <img src="https://img.shields.io/badge/Pull_Requests-150-blue?style=for-the-badge&logo=github" />&nbsp;&nbsp;
-  <!-- Total Issues -->
-  <img src="https://img.shields.io/badge/Issues-75-orange?style=for-the-badge&logo=github" />&nbsp;&nbsp;
-  <!-- Open Source Projects -->
-  <img src="https://img.shields.io/badge/Open_Source_Projects-15%2B-red?style=for-the-badge&logo=github" />
+  <!-- Animated Total Contributions -->
+  <img src="https://capsule-render.vercel.app/api/typing_text?type=waving&color=0:ff9966,100:ff5e62&height=50&section=footer&text=💻+Total+Contributions:+1000%2B&fontSize=25&fontAlignY=35" />&nbsp;&nbsp;
+
+  <!-- Animated Pull Requests -->
+  <img src="https://capsule-render.vercel.app/api/typing_text?type=waving&color=0:1abc9c,100:16a085&height=50&section=footer&text=🔀+Pull+Requests:+150&fontSize=25&fontAlignY=35" />&nbsp;&nbsp;
+
+  <!-- Animated Issues -->
+  <img src="https://capsule-render.vercel.app/api/typing_text?type=waving&color=0:f39c12,100:e67e22&height=50&section=footer&text=🐛+Issues:+75&fontSize=25&fontAlignY=35" />&nbsp;&nbsp;
+
+  <!-- Animated Open Source Projects -->
+  <img src="https://capsule-render.vercel.app/api/typing_text?type=waving&color=0:e74c3c,100:c0392b&height=50&section=footer&text=🚀+Open+Source+Projects:+15%2B&fontSize=25&fontAlignY=35" />
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api/typing_text?type=waving&color=0:ff9966,100:ff5e62&height=50&section=footer&text=💻+Contributions:+1000%2B&fontSize=25&fontAlignY=35" />
-</p>
+
 
 
 ---
@@ -115,7 +113,6 @@
   <img src="https://img.shields.io/badge/Contributions-Active%20Daily-orange?style=for-the-badge&logo=github" />
 </p>
 
----
 
 <!-- Snake Animation -->
 <p align="center">
@@ -123,7 +120,7 @@
 </p>
 
 
-
+---
 ## 💬 Let’s Connect
 
 <p align="center">
