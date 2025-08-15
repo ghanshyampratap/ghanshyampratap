@@ -4,8 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=200&section=header&text=👋%20Hi,%20I'm%20Ghanshyam%20Pratap&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
----
-
 # 🌟 About Me  
 
 - 🤖 Passionate about *Robotics | IoT | VLSI | Embedded Systems*  
