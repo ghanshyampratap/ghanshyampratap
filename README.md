@@ -41,11 +41,22 @@
 <h1 align="center">🚀 Embedded Systems & IoT Developer | Tech Explorer</h1>
 
 ---
-
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,linux,git,github,vscode,html,css,js,java" />
+  <img src="https://skillicons.dev/icons?i=c" title="C" width="40" height="40" /> <sub><b>C</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="40" height="40" /> <sub><b>C++</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" title="Python" width="40" height="40" /> <sub><b>Python</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=arduino" title="Arduino" width="40" height="40" /> <sub><b>Arduino</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=raspberrypi" title="Raspberry Pi" width="40" height="40" /> <sub><b>Raspberry Pi</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" width="40" height="40" /> <sub><b>Linux</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" title="Git" width="40" height="40" /> <sub><b>Git</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="40" height="40" /> <sub><b>GitHub</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="40" height="40" /> <sub><b>VS Code</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" width="40" height="40" /> <sub><b>HTML</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" width="40" height="40" /> <sub><b>CSS</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="40" height="40" /> <sub><b>JavaScript</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" title="Java" width="40" height="40" /> <sub><b>Java</b></sub>
 </p>
 
 ---
