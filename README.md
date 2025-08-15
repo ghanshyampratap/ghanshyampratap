@@ -1,8 +1,9 @@
 # 📝 Bio
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=200&section=header&text=👋%20Hi,%20I'm%20Ghanshyam%20Pratap&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=300&section=header&text=👋%20Hi,%20I'm%20Ghanshyam%20Pratap%20🚀&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
 </p>
+
 
 - 🤖 **Robotics | IoT | VLSI | Embedded Systems**  
 - ⚡ **Real-Time Systems & Automation Projects**  
