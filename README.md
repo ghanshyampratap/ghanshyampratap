@@ -4,13 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=200&section=header&text=👋%20Hi,%20I'm%20Ghanshyam%20Pratap&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<!-- Typing Animation (Fixed) -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00FFB3&center=true&vCenter=true&repeat=true&width=1000&height=60&lines=🚀%20Innovator%20%7C%20Engineer%20%7C%20Creator;🤖%20Robotics%20%7C%20IoT%20%7C%20VLSI%20%7C%20Embedded%20Systems;⚡%20Real-Time%20Systems%20%26%20Automation;🌎%20Open%20Source%20%7C%20Startup%20Collaboration;🔥%20Turning%20Ideas%20Into%20Reality"
-    alt="Typing Animation"
-  />
-</p>
 ---
 
 # 🌟 About Me  
