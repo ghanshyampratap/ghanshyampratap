@@ -28,7 +28,6 @@
 
 <h1 align="center">🚀 Embedded Systems & IoT Developer | Tech Explorer</h1>
 
----
 
 ## **🛠 TECH STACK**
 
@@ -51,7 +50,6 @@
   <img src="https://skillicons.dev/icons?i=java" title="Java" width="55" height="55" /> <sub><b>Java</b></sub>
 </p>
 
----
 
 ## 🚀 GitHub Stats & Achievements
 
