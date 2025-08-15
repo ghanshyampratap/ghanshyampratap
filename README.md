@@ -56,14 +56,14 @@
 ## 🚀 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=🔥+Passionate+Developer+%7C+Problem+Solver;📈+Consistent+Contributor+%7C+Open+Source+Lover;💡+Always+Learning+and+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=🔥+Passionate+Developer+%7C+Innovator;📈+Consistent+Open+Source+Contributor;💡+Always+Learning+and+Building+Impactful+Projects" alt="Typing SVG" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghanshyampratap&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghanshyampratap&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghanshyampratap&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghanshyampratap&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" height="170" />
 </p>
 
 ---
@@ -85,7 +85,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ghanshyampratap&theme=onedark&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ghanshyampratap&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&margin-h=10&column=6&title=MultiLanguage,Commits,Stars,PullRequest,Repositories,Issues" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -95,9 +95,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Over+500+Commits+and+Counting!;Actively+Building+Impactful+Projects+🚀;Always+Learning+%7C+Always+Improving" alt="Motivational Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Over+500+Commits+and+Growing!;Actively+Building+and+Improving+Every+Day+🚀;Turning+Ideas+Into+Reality" alt="Motivational Typing" />
 </p>
-
 
 ---
 
