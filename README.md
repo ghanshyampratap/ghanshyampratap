@@ -1,8 +1,3 @@
-<!-- 🌟 Top Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:ff758c&height=200&section=header&text=Welcome%20to%20Ghanshyam%20Pratap's%20GitHub!&fontSize=35&fontAlign=50&fontColor=ffffff&animation=twinkling" />
-</p>
-
 
 # 📝 Bio
 <!-- Header -->
