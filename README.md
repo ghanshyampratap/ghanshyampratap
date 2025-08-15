@@ -73,10 +73,14 @@
 </p>
 
 ---
-## 📅 Contributions & Stat
+## 📅 Contributions & Stats
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api/typing_text?type=waving&color=0:ff9966,100:ff5e62&height=70&section=footer&text=💻+**Total+Contributions:+1000%2B**+|+🔀+**Pull+Requests:+150**+|+🐛+**Issues:+75**+|+🚀+**Open+Source+Projects:+15%2B**&fontSize=30&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api/typing_text?type=waving&color=0:ff9966,100:ff5e62&height=60&section=footer&text=💻+Total+Contributions:+1000%2B+|+🔀+Pull+Requests:+150&fontSize=28&fontAlignY=40" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api/typing_text?type=waving&color=0:f39c12,100:e67e22&height=60&section=footer&text=🐛+Issues:+75+|+🚀+Open+Source+Projects:+15%2B&fontSize=28&fontAlignY=40" />
 </p>
 
 ---
