@@ -88,15 +88,13 @@
 
 ---
 
-## 📅 Contribution Calendar
+## 📅 Contributions
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00ccff/ghanshyampratap" alt="GitHub Contribution Chart" width="90%" />
+  <!-- Total Contributions Badge -->
+  <img src="https://img.shields.io/badge/Total_Contributions-500%2B-brightgreen?style=for-the-badge&logo=github" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghanshyampratap&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</p>
 
 ---
 
