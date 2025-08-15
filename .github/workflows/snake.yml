@@ -3,7 +3,10 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 */12 * * *"  # Har 12 ghante me run karega
-  workflow_dispatch:  # Manual run ka option
+  workflow_dispatch:        # Manual run ka option
+
+permissions:
+  contents: write
 
 jobs:
   generate:
