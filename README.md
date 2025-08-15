@@ -1,7 +1,8 @@
 <!-- 🌟 Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Ghanshyam%20Pratap&fontSize=40&fontAlign=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:ff758c&height=200&section=header&text=Welcome%20to%20Ghanshyam%20Pratap's%20GitHub!&fontSize=35&fontAlign=50&fontColor=ffffff&animation=twinkling" />
 </p>
+
 
 # 📝 Bio
 
@@ -84,10 +85,9 @@
 
 <!-- Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ghanshyampratap/ghanshyampratap/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ghanshyampratap/ghanshyampratap/output/dist/snake.svg" alt="Snake animation" />
 </p>
 
----
 
 ## 💬 Let’s Connect
 
@@ -99,5 +99,6 @@
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:ff758c&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=150&section=footer" />
 </p>
+
