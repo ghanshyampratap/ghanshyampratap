@@ -73,24 +73,11 @@
 </p>
 
 ---
-
-## 📅 Contributions
+## 📅 Contributions & Stat
 
 <p align="center">
-  <!-- Animated Total Contributions -->
-  <img src="https://capsule-render.vercel.app/api/typing_text?type=waving&color=0:ff9966,100:ff5e62&height=50&section=footer&text=💻+Total+Contributions:+1000%2B&fontSize=25&fontAlignY=35" />&nbsp;&nbsp;
-
-  <!-- Animated Pull Requests -->
-  <img src="https://capsule-render.vercel.app/api/typing_text?type=waving&color=0:1abc9c,100:16a085&height=50&section=footer&text=🔀+Pull+Requests:+150&fontSize=25&fontAlignY=35" />&nbsp;&nbsp;
-
-  <!-- Animated Issues -->
-  <img src="https://capsule-render.vercel.app/api/typing_text?type=waving&color=0:f39c12,100:e67e22&height=50&section=footer&text=🐛+Issues:+75&fontSize=25&fontAlignY=35" />&nbsp;&nbsp;
-
-  <!-- Animated Open Source Projects -->
-  <img src="https://capsule-render.vercel.app/api/typing_text?type=waving&color=0:e74c3c,100:c0392b&height=50&section=footer&text=🚀+Open+Source+Projects:+15%2B&fontSize=25&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api/typing_text?type=waving&color=0:ff9966,100:ff5e62&height=70&section=footer&text=💻+**Total+Contributions:+1000%2B**+|+🔀+**Pull+Requests:+150**+|+🐛+**Issues:+75**+|+🚀+**Open+Source+Projects:+15%2B**&fontSize=30&fontAlignY=40" />
 </p>
-
-
 
 ---
 
