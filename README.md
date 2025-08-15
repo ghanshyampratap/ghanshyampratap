@@ -4,12 +4,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=200&section=header&text=👋%20Hi,%20I'm%20Ghanshyam%20Pratap&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-# 🌟 About Me  
+- 🤖 **Robotics | IoT | VLSI | Embedded Systems**  
+- ⚡ **Real-Time Systems & Automation Projects**  
+- 💡 **Robotics & IoT Startup Ideas | Open Source Contributor**  
+- 🌱 **Emerging Technologies | Lifelong Learner**
 
-- 🤖 **Tech Enthusiast:** **Passionate** about **Robotics | IoT | VLSI | Embedded Systems**  
-- ⚡ **Innovator & Problem-Solver:** **Building Real-Time Systems & Automation Projects** that make an impact  
-- 💡 **Startup Explorer:** **Experimenting with Robotics & IoT startup ideas** and **contributing actively to Open Source**  
-- 🌱 **Lifelong Learner:** **Constantly exploring emerging technologies** and **turning ideas into reality**
 
 ---
 
@@ -28,14 +27,11 @@
 
 <h3 align="center">✨ “Code. Commit. Create. The Future is Mine to Build.” ✨</h3>
 
----
 
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer" />
 </p>
-
----
 
 <!-- Banner Image -->
 <p align="center">
