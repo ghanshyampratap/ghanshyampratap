@@ -67,8 +67,11 @@
 
 ## 🚀 GitHub Stats & Achievements
 
+<!-- GitHub Stats Section without Typing Animation -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=950&lines=🔥+Innovator+%26+Tech+Enthusiast;📈+500%2B+Commits+%26+Consistent+Contributor;💡+Turning+Ideas+Into+Impactful+Projects;🌎+Open+Source+Lover+%7C+Always+Learning" alt="Typing Animation" />
+  <!-- Example GIF Banner (Animated Tech Banner) -->
+  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" alt="Tech Banner" width="800"/>
 </p>
 
 <p align="center">
