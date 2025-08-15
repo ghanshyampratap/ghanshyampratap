@@ -67,11 +67,11 @@
 
 ## 🚀 GitHub Stats & Achievements
 
-<!-- GitHub Stats Section without Typing Animation -->
+<!-- GitHub Stats Section with New Animation -->
 
 <p align="center">
-  <!-- Example GIF Banner (Animated Tech Banner) -->
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" alt="Tech Banner" width="800"/>
+  <!-- Matrix-style Coding Animation -->
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" alt="Coding Animation" width="800"/>
 </p>
 
 <p align="center">
@@ -82,6 +82,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyampratap&layout=compact&theme=radical&hide_border=true&border_radius=15" height="165" />
 </p>
+
 
 ---
 
