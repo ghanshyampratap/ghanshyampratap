@@ -85,8 +85,9 @@
 
 <!-- Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ghanshyampratap/ghanshyampratap/output/dist/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ghanshyampratap/ghanshyampratap/main/dist/snake.svg" alt="Snake animation" />
 </p>
+
 
 
 ## 💬 Let’s Connect
