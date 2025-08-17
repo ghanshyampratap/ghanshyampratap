@@ -53,33 +53,40 @@
 </p>
 
 ---
-## 🚀 GitHub Stats & Achievements  
+## 🚀 GitHub Stats & Achievements
 
-<!-- Badges Row 1 -->
+<!-- Badges: 3 per row -->
 <p align="center">
-  <img src="https://img.shields.io/badge/500%2B_Commits-Active_Contributor-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Top_Languages-Python_C%2B%2B-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/500%2B_Commits-Active_Contributor-brightgreen?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Top_Languages-Python_C%2B%2B-blue?style=for-the-badge&logo=python" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Open_Source_Projects-15%2B-orange?style=for-the-badge&logo=open-source" />
 </p>
 
-<!-- Badges Row 2 -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Problem_Solving-Expert-yellow?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/Robotics_IoT_Projects-10%2B-red?style=for-the-badge&logo=arduino" />
+  <img src="https://img.shields.io/badge/Problem_Solving-Expert-yellow?style=for-the-badge&logo=leetcode" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Robotics_IoT_Projects-10%2B-red?style=for-the-badge&logo=arduino" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Repositories-25-purple?style=for-the-badge&logo=github" />
 </p>
 
-<!-- Stats + Streak side by side -->
+<!-- GitHub Stats + Streak side by side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghanshyampratap&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="175" />
-  <img src="https://streak-stats.demolab.com?user=ghanshyampratap&theme=radical&hide_border=true&border_radius=15" height="175" />
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ghanshyampratap&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="175" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!-- Streak Stats with Fallback -->
+  <picture>
+    <source srcset="https://streak-stats.demolab.com?user=ghanshyampratap&theme=radical&hide_border=true&border_radius=15" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=ghanshyampratap&theme=radical&hide_border=true&border_radius=15" height="175"/>
+  </picture>
 </p>
 
-<!-- Top Languages -->
+<!-- Top Languages with Fallback -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyampratap&layout=compact&theme=radical&hide_border=true&border_radius=15" height="165" />
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyampratap&layout=compact&theme=radical&hide_border=true&border_radius=15" />
+    <img src="https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=ghanshyampratap&layout=compact&theme=radical&hide_border=true&border_radius=15" height="165" />
+  </picture>
 </p>
-
 
 
 ---
