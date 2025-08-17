@@ -13,15 +13,9 @@
   <a href="https://www.linkedin.com/in/ghanshyampratapsingh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<h1 align="center">
-  💃 Welcome to My Repo 💃
-</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=FF1493&center=true&vCenter=true&repeat=true&width=600&lines=💃+Dancing+into+Code+;✨+Welcome+Viewers+✨;🚀+Let's+Build+Something+Awesome!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1200&pause=600&color=FF00FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=💃+Dance...;💃💃+Dance+More...;💃💃💃+Keep+Dancing...;🥳+Welcome+To+My+World!" alt="Dancing Girl Animation" />
 </p>
-
-
 
 <h3 align="center">✨ “Code. Commit. Create. The Future is Mine to Build.” ✨</h3>
 
