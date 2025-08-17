@@ -13,9 +13,9 @@
   <a href="https://www.linkedin.com/in/ghanshyampratapsingh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-
-![Matrix Rain](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
-
+<p align="center">
+  <img src="https://github.com/aleen42/badges/raw/master/src/react.svg" width="200">
+</p>
 
 
 <h3 align="center">✨ “Code. Commit. Create. The Future is Mine to Build.” ✨</h3>
