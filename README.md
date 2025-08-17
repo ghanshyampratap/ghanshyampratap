@@ -24,9 +24,9 @@
 <h3 align="center">✨ “Code. Commit. Create. The Future is Mine to Build.” ✨</h3>
 
 
-<!-- Banner Image -->
+<!-- Animated SVG Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ghanshyampratap/ghanshyampratap/main/assets/ChatGPT%20Image%20May%201%2C%202025%2C%2004_50_12%20AM.png" alt="banner" width="80%" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FFB3&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub;Electronics+%26+VLSI+Enthusiast;Content+Creator+%7C+Engineer" />
 </p>
 
 <h1 align="center">🚀 Embedded Systems & IoT Developer | Tech Explorer</h1>
