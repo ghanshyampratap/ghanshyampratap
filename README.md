@@ -76,7 +76,7 @@
 <!-- GitHub Stats Images: 2 per row for better spacing -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ghanshyampratap&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="175" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ghanshyampratap&theme=radical&hide_border=true&border_radius=15" height="175" />
+  <img src="https://streak-stats.demolab.com?user=ghanshyampratap&theme=radical&hide_border=true&border_radius=15" height="175"/>
 </p>
 
 <p align="center">
