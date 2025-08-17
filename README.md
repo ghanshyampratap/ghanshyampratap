@@ -23,6 +23,9 @@
 
 <h3 align="center">✨ “Code. Commit. Create. The Future is Mine to Build.” ✨</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=800&lines=✨+Code.+Commit.+Create.+The+Future+is+Mine+to+Build.+✨" alt="Typing SVG" />
+</p>
 
 <!-- Banner Image --> <p align="center"> <img src="https://raw.githubusercontent.com/ghanshyampratap/ghanshyampratap/main/assets/ChatGPT%20Image%20May%201%2C%202025%2C%2004_50_12%20AM.png" alt="banner" width="80%" /> </p>
 
