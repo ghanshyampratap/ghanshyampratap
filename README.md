@@ -15,11 +15,9 @@
 
 <!-- Motivational Quotes Typing Animation -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=900&color=00FFB3&center=true&vCenter=true&repeat=true&width=720&height=70&lines=Dream+big%2C+ship+small.;Consistency+beats+motivation.;Code.+Commit.+Conquer.;Build+%3E+Talk.;Learn.+Unlearn.+Relearn.;Start+now%2C+iterate+fast.;Break+things%2C+learn+quick.;Focus%2C+finish%2C+ship."
-    alt="Motivational Quotes Animation"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=500&color=FF5733&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Stay+Focused!;🔥+Believe+in+Yourself!;💡+Small+Steps+Big+Dreams!;🏆+Consistency+Beats+Talent!;💪+Never+Give+Up!" alt="Motivational Typing Animation" />
 </p>
+
 
 <h3 align="center">✨ “Code. Commit. Create. The Future is Mine to Build.” ✨</h3>
 
