@@ -142,9 +142,9 @@
 </p>
 
 
-<!-- Snake Animation -->
+<!-- Wave Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ghanshyampratap/ghanshyampratap/main/dist/snake.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFB3&height=120&section=footer" />
 </p>
 
 
