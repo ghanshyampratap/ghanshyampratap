@@ -143,7 +143,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/profile-season-animate.svg" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Matrix Code Rain" />
 </p>
 
 
