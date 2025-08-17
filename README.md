@@ -64,11 +64,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/500%2B_Commits-Active_Contributor-brightgreen?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Top_Languages-Python_C%2B%2B-blue?style=for-the-badge&logo=python" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Open_Source_Projects-15%2B-orange?style=for-the-badge&logo=opensourceinitiative" />
+  <img src="https://img.shields.io/badge/Open_Source_Projects-15%2B-orange?style=for-the-badge&logo=open-source" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problem_Solving-Expert-yellow?style=for-the-badge&logo=hackerrank" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Problem_Solving-Expert-yellow?style=for-the-badge&logo=leetcode" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Robotics_IoT_Projects-10%2B-red?style=for-the-badge&logo=arduino" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Repositories-25-purple?style=for-the-badge&logo=github" />
 </p>
