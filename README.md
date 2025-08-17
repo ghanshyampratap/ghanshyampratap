@@ -13,9 +13,7 @@
   <a href="https://www.linkedin.com/in/ghanshyampratapsingh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/aleen42/badges/raw/master/src/react.svg" width="200">
-</p>
+![Starfield](https://raw.githubusercontent.com/PaulStoffregen/AnimatedGIFs/master/extras/starfield.gif)
 
 
 <h3 align="center">✨ “Code. Commit. Create. The Future is Mine to Build.” ✨</h3>
