@@ -14,7 +14,8 @@
 </p>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF4500&center=true&vCenter=true&repeat=true&width=500&lines=🔥+Ghanshyam+Pratap+Singh;🔥+Passionate+Learner;🔥+VLSI+%26+Robotics)
+![Matrix Rain](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+
 
 
 <h3 align="center">✨ “Code. Commit. Create. The Future is Mine to Build.” ✨</h3>
