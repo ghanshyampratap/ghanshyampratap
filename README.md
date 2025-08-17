@@ -57,33 +57,39 @@
 
 <!-- Badges: 3 per row -->
 <p align="center">
-  <img src="https://img.shields.io/badge/500%2B_Commits-Active_Contributor-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Top_Languages-Python_C%2B%2B-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/500%2B_Commits-Active_Contributor-brightgreen?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Top_Languages-Python_C%2B%2B-blue?style=for-the-badge&logo=python" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Open_Source_Projects-15%2B-orange?style=for-the-badge&logo=open-source" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problem_Solving-Expert-yellow?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/Robotics_IoT_Projects-10%2B-red?style=for-the-badge&logo=arduino" />
+  <img src="https://img.shields.io/badge/Problem_Solving-Expert-yellow?style=for-the-badge&logo=leetcode" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Robotics_IoT_Projects-10%2B-red?style=for-the-badge&logo=arduino" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Repositories-25-purple?style=for-the-badge&logo=github" />
 </p>
 
-<!-- GitHub Stats + Streak side by side -->
+<!-- GitHub Stats Images -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghanshyampratap&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="175" />
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ghanshyampratap&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="175" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=ghanshyampratap&theme=radical&hide_border=true&border_radius=15" height="175" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/500%2B_Commits-Medal-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Top_Languages-Python_C++_C-blue?style=for-the-badge&logo=codeforces" />
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-orange?style=for-the-badge&logo=open-source-initiative" />
-</p>
-
 
 <!-- Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyampratap&layout=compact&theme=radical&hide_border=true&border_radius=15" height="165" />
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ghanshyampratap&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+</p>
+
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghanshyampratap&theme=radical&hide_border=true" />
 </p>
 
 ---
