@@ -22,12 +22,11 @@
 </p>
 
 <h3 align="center">✨ “Code. Commit. Create. The Future is Mine to Build.” ✨</h3>
-
 <div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=800&lines=✨+Code.+Commit.+Create.+The+Future+is+Mine+to+Build.+✨)
-
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
+       alt="Matrix Code Rain" width="800" />
 </div>
+
 
 
 
