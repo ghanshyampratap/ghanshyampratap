@@ -14,7 +14,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1200&pause=600&color=FF00FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=💃+Dance...;💃💃+Dance+More...;💃💃💃+Keep+Dancing...;🥳+Welcome+To+My+World!" alt="Dancing Girl Animation" />
+  <marquee behavior="alternate" scrollamount="10" width="80%">
+    💃&nbsp;💃&nbsp;💃&nbsp; <b>Welcome to my repo!</b> &nbsp;💃&nbsp;💃&nbsp;💃
+  </marquee>
 </p>
 
 <h3 align="center">✨ “Code. Commit. Create. The Future is Mine to Build.” ✨</h3>
