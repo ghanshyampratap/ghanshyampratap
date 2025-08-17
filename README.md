@@ -74,6 +74,13 @@
   <img src="https://streak-stats.demolab.com?user=ghanshyampratap&theme=radical&hide_border=true&border_radius=15" height="175" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/500%2B_Commits-Medal-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Top_Languages-Python_C++_C-blue?style=for-the-badge&logo=codeforces" />
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-orange?style=for-the-badge&logo=open-source-initiative" />
+</p>
+
+
 <!-- Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyampratap&layout=compact&theme=radical&hide_border=true&border_radius=15" height="165" />
