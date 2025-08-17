@@ -23,13 +23,10 @@
 
 <h3 align="center">✨ “Code. Commit. Create. The Future is Mine to Build.” ✨</h3>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="YOUR_DARK_GIF_URL.gif">
-    <source media="(prefers-color-scheme: light)" srcset="YOUR_LIGHT_GIF_URL.gif">
-    <img src="YOUR_LIGHT_GIF_URL.gif" alt="Code GIF" width="800">
-  </picture>
-</p>
+<figure align="center">
+  <img src="YOUR_GIF_URL.gif" alt="Coding Flow" width="800" />
+  <figcaption><i>Build. Break. Learn. Repeat.</i></figcaption>
+</figure>
 
 
 
