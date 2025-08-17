@@ -23,10 +23,10 @@
 
 <h3 align="center">✨ “Code. Commit. Create. The Future is Mine to Build.” ✨</h3>
 
-<figure align="center">
-  <img src="YOUR_GIF_URL.gif" alt="Coding Flow" width="800" />
-  <figcaption><i>Build. Break. Learn. Repeat.</i></figcaption>
-</figure>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
+       alt="Matrix Code Rain" width="800"/>
+</p>
 
 
 
