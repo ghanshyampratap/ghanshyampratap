@@ -94,22 +94,31 @@
 </p>
 
 ---
-## 📅 Contributions & Stats
+## 📅 Contributions & Impact
 
 <p align="center">
-  <!-- Row 1 -->
-  <img src="https://img.shields.io/badge/Total_Contributions-1000%2B-brightgreen?style=for-the-badge&logo=github" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Pull_Requests-150-blue?style=for-the-badge&logo=github" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Issues-75-orange?style=for-the-badge&logo=github" />
+  <!-- Row 1: Core Stats -->
+  <img src="https://img.shields.io/badge/Contributions-1000%2B-success?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Pull_Requests_Merged-150-blueviolet?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Issues_Resolved-75-ff4500?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 <p align="center">
-  <!-- Row 2 -->
-  <img src="https://img.shields.io/badge/Open_Source_Projects-15%2B-red?style=for-the-badge&logo=github" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Repositories-25-purple?style=for-the-badge&logo=github" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Forks-30-lightgrey?style=for-the-badge&logo=github" />
+  <!-- Row 2: Projects -->
+  <img src="https://img.shields.io/badge/Open_Source_Projects-15-important?style=for-the-badge&logo=open-source-initiative&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Repositories-25-informational?style=for-the-badge&logo=github" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Forks-30-yellow?style=for-the-badge&logo=gitlab" />
 </p>
 
+<!-- Animated Contribution Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<!-- Animated Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=🚀+Open+Source+Contributor;🔥+Passionate+Problem+Solver;🌎+Building+Impactful+Projects;✨+Always+Learning+%26+Growing" alt="Typing SVG" />
+</p>
 
 ---
 
