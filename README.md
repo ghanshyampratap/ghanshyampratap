@@ -24,8 +24,7 @@
 <h3 align="center">✨ “Code. Commit. Create. The Future is Mine to Build.” ✨</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
-       alt="Matrix Code Rain" width="800"/>
+  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="200" />  
 </p>
 
 
