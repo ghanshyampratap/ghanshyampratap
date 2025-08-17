@@ -13,8 +13,12 @@
   <a href="https://www.linkedin.com/in/ghanshyampratapsingh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
+<!-- Motivational Quotes Typing Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/wave.svg" width="500" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=900&color=00FFB3&center=true&vCenter=true&repeat=true&width=720&height=70&lines=Dream+big%2C+ship+small.;Consistency+beats+motivation.;Code.+Commit.+Conquer.;Build+%3E+Talk.;Learn.+Unlearn.+Relearn.;Start+now%2C+iterate+fast.;Break+things%2C+learn+quick.;Focus%2C+finish%2C+ship."
+    alt="Motivational Quotes Animation"
+  />
 </p>
 
 <h3 align="center">✨ “Code. Commit. Create. The Future is Mine to Build.” ✨</h3>
