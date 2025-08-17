@@ -14,9 +14,8 @@
 </p>
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="400" />  
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF4500&center=true&vCenter=true&repeat=true&width=500&lines=🔥+Ghanshyam+Pratap+Singh;🔥+Passionate+Learner;🔥+VLSI+%26+Robotics)
+
 
 <h3 align="center">✨ “Code. Commit. Create. The Future is Mine to Build.” ✨</h3>
 
