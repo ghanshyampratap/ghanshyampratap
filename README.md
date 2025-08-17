@@ -142,9 +142,8 @@
 </p>
 
 
-<!-- Wave Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFB3&height=120&section=footer" />
+  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/profile-season-animate.svg" />
 </p>
 
 
