@@ -73,17 +73,21 @@
   <img src="https://img.shields.io/badge/Repositories-25-purple?style=for-the-badge&logo=github" />
 </p>
 
-<!-- GitHub Stats Images: 2 per row for better spacing -->
+<!-- GitHub Stats Images -->
 <p align="center">
+  <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=ghanshyampratap&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="175" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=ghanshyampratap&theme=radical&hide_border=true&border_radius=15" height="175"/>
+  
+  <!-- Streak Stats (Official) -->
+  <img src="https://streak-stats.demolab.com?user=ghanshyampratap&theme=radical&hide_border=true&border_radius=15" height="175" />
+  
+  <!-- Streak Stats (Backup Mirror) -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ghanshyampratap&theme=radical&hide_border=true&border_radius=15" height="175"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyampratap&layout=compact&theme=radical&hide_border=true&border_radius=15" height="165" />
 </p>
-
-
 
 ---
 ## 📅 Contributions & Stats
