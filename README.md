@@ -87,6 +87,12 @@
   <img src="https://img.shields.io/badge/Passion-Tech%20%7C%20YouTube%20%7C%20Innovation-pink?style=for-the-badge&logo=youtube" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-Always%20Learning-orange?style=for-the-badge&logo=codeforces" />
+  <img src="https://img.shields.io/badge/Team%20Player-Collaborator-green?style=for-the-badge&logo=teams" />
+</p>
+
 ---
 ## 📅 Contributions & Stats
 
