@@ -13,9 +13,8 @@
   <a href="https://www.linkedin.com/in/ghanshyampratapsingh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<!-- Animated Welcome -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=👋+Welcome+to+My+GitHub!;✨+Explore+My+Projects;🚀+Let's+Build+Something+Awesome" alt="Welcome Animation" />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/wave.svg" width="500" />
 </p>
 
 <h3 align="center">✨ “Code. Commit. Create. The Future is Mine to Build.” ✨</h3>
