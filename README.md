@@ -87,9 +87,10 @@
   <img src="https://komarev.com/ghpvc/?username=ghanshyampratap&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
 </p>
 
-<!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghanshyampratap&theme=radical&hide_border=true" />
+  <img src="https://img.shields.io/badge/Analog%20Layout-Enthusiast-purple?style=for-the-badge&logo=verilog" />
+  <img src="https://img.shields.io/badge/Digital%20Design%20&%20VLSI-Focused-red?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Career%20Ready-brightgreen?style=for-the-badge&logo=linkedin" />
 </p>
 
 ---
