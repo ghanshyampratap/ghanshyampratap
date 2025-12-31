@@ -39,7 +39,7 @@
 
 <!-- Banner Image --> <p align="center"> <img src="https://raw.githubusercontent.com/ghanshyampratap/ghanshyampratap/main/assets/ChatGPT%20Image%20May%201%2C%202025%2C%2004_50_12%20AM.png" alt="banner" width="80%" /> </p>
 
-<h1 align="center">🚀 Embedded Systems & IoT Developer | Tech Explorer</h1>
+<h1 align="center"> Embedded Systems & IoT Developer | Tech Explorer</h1>
 
 
 
@@ -160,7 +160,7 @@
 </p>
 
 
----
+
 ## 💬 Let’s Connect
 
 <p align="center">
