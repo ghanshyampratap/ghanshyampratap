@@ -44,6 +44,7 @@
 
 
 
+
 ## **🛠 TECH STACK**
 
 <p align="center">
@@ -65,7 +66,8 @@
   <img src="https://skillicons.dev/icons?i=java" title="Java" width="55" height="55" /> <sub><b>Java</b></sub>
 </p>
 
----
+
+
 ## 🚀 GitHub Stats & Achievements
 
 <!-- Badges: 3 per row -->
@@ -106,7 +108,9 @@
   <img src="https://img.shields.io/badge/Team%20Player-Collaborator-green?style=for-the-badge&logo=teams" />
 </p>
 
----
+
+
+
 ## 📅 Contributions & Impact
 
 <p align="center">
@@ -133,7 +137,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=🚀+Open+Source+Contributor;🔥+Passionate+Problem+Solver;🌎+Building+Impactful+Projects;✨+Always+Learning+%26+Growing" alt="Typing SVG" />
 </p>
 
----
+
+
 
 ## 🏆 GitHub Trophies
 
@@ -141,7 +146,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ghanshyampratap&theme=matrix&no-bg=true&no-frame=true&margin-w=12&margin-h=12&column=6" />
 </p>
 
----
+
 
 ## 💎 Impact Badges
 
