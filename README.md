@@ -130,11 +130,19 @@
 
 ---
 
-## 🏆 **GitHub Trophies**
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ghanshyampratap&theme=matrix&no-bg=true&no-frame=true&margin-w=12&margin-h=12&column=6" />
+  <picture>
+    <!-- Dark Mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ghanshyampratap&theme=radical&no-frame=false&no-bg=false&margin-w=10&margin-h=10&column=4">
+    <!-- Light Mode -->
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ghanshyampratap&theme=flat&no-frame=false&no-bg=false&margin-w=10&margin-h=10&column=4">
+    <!-- Default (Fallback) -->
+    <img src="https://github-profile-trophy.vercel.app/?username=ghanshyampratap&theme=radical&no-frame=false&no-bg=false&margin-w=10&margin-h=10&column=4" alt="GitHub Trophies" />
+  </picture>
 </p>
+
 
 ---
 
