@@ -133,14 +133,9 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <picture>
-    <!-- Dark Mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ghanshyampratap&theme=radical&no-frame=false&no-bg=false&margin-w=10&margin-h=10&column=4">
-    <!-- Light Mode -->
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ghanshyampratap&theme=flat&no-frame=false&no-bg=false&margin-w=10&margin-h=10&column=4">
-    <!-- Default (Fallback) -->
-    <img src="https://github-profile-trophy.vercel.app/?username=ghanshyampratap&theme=radical&no-frame=false&no-bg=false&margin-w=10&margin-h=10&column=4" alt="GitHub Trophies" />
-  </picture>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-readme-trophies.vercel.app/?username=ghanshyampratap&theme=radical&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  </a>
 </p>
 
 
