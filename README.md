@@ -1,11 +1,11 @@
 <!-- Header --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=200&section=header&text=👋%20Hi,%20I'm%20Ghanshyam%20Pratap&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" /> </p>
 # 📝 Bio 
 
-- 🤖 **Robotics | IoT | VLSI | Embedded Systems**  
-- ⚡ **Real-Time Systems & Automation Projects**  
-- 💡 **Robotics & IoT Startup Ideas | Open Source Contributor**  
-- 🌱 **Emerging Technologies | Lifelong Learner**
-# 🌐 Connect With Me  
+-  **Robotics | IoT | VLSI | Embedded Systems**  
+-  **Real-Time Systems & Automation Projects**  
+-  **Robotics & IoT Startup Ideas | Open Source Contributor**  
+-  **Emerging Technologies | Lifelong Learner**
+#  Connect With Me  
 
 <p align="center">
   <a href="mailto:ghanshyamsingh85165@gmail.com">
@@ -68,7 +68,7 @@
 
 
 
-## 🚀 GitHub Stats & Achievements
+##  GitHub Stats & Achievements
 
 <!-- Badges: 3 per row -->
 <p align="center">
@@ -111,7 +111,7 @@
 
 
 
-## 📅 Contributions & Impact
+##  Contributions & Impact
 
 <p align="center">
   <!-- Row 1: Core Stats -->
@@ -140,7 +140,7 @@
 
 
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ghanshyampratap&theme=matrix&no-bg=true&no-frame=true&margin-w=12&margin-h=12&column=6" />
@@ -148,7 +148,7 @@
 
 
 
-## 💎 Impact Badges
+##  Impact Badges
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ghanshyampratap&color=brightgreen&style=for-the-badge" />
