@@ -123,8 +123,10 @@
 </p>
 
 
+##  Daily Dev Quote
+
 <p align="center">
-  <i>"Consistency beats talent when talent doesn't work hard." – Anonymous</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
 
 
