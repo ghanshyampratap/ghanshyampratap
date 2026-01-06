@@ -79,16 +79,18 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Top_Languages-Python_C%2B%2B-blue?style=for-the-badge&logo=python" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Open_Source_Projects-15%2B-orange?style=for-the-badge&logo=open-source" />
+  <img src="https://img.shields.io/badge/Open_Source_Projects-15%2B-orange?style=for-the-badge&logo=open-source-initiative" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Problem_Solving-Expert-yellow?style=for-the-badge&logo=leetcode" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Robotics_IoT_Projects-10%2B-red?style=for-the-badge&logo=arduino" />
+  <img src="https://img.shields.io/badge/Robotics_&_IoT_Projects-10%2B-red?style=for-the-badge&logo=arduino" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Repositories-25-purple?style=for-the-badge&logo=github" />
 </p>
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ghanshyampratap&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="175" />
@@ -99,8 +101,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyampratap&layout=compact&theme=radical&hide_border=true&border_radius=15" height="165" />
 </p>
-
----
 
 ## 🧩 **Contributions & Impact**
 
