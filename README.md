@@ -128,11 +128,7 @@
 ##  Daily Quote
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5E62&center=true&vCenter=true&width=800&height=60&lines=Innovation+starts+where+hardware+meets+intelligence.;IoT+is+not+about+things,+it's+about+connected+intelligence.;Embedded+systems+run+the+world+silently+but+powerfully.;VLSI+design+is+art+at+the+atomic+scale." alt="IoT Quote" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9966,100:ff5e62&height=80&section=footer&text=Empowering%20Innovation%20through%20IoT%20%7C%20Embedded%20%7C%20VLSI&fontSize=18&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
 
 
