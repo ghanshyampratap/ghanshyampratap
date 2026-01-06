@@ -125,10 +125,10 @@
 </p>
 
 
-## 🎯 GitHub Achievements
+## 💬 Daily Dev Quote
 
 <p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api/badge/ghanshyampratap" alt="GitHub Achievements" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
 
 
