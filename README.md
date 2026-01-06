@@ -125,11 +125,12 @@
 </p>
 
 
-## 📈 GitHub Metrics
+## 🎯 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-metrics.vercel.app/api?username=ghanshyampratap&template=classic&config.timezone=Asia/Kolkata" alt="GitHub Metrics" />
+  <img src="https://github-profile-achievements.vercel.app/api/badge/ghanshyampratap" alt="GitHub Achievements" />
 </p>
+
 
 ## 💡 **Impact Badges**
 
