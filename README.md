@@ -125,12 +125,10 @@
 </p>
 
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Metrics
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ghanshyampratap&theme=radical&no-frame=true&margin-w=10&margin-h=10&row=2&column=4" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-metrics.vercel.app/api?username=ghanshyampratap&template=classic&config.timezone=Asia/Kolkata" alt="GitHub Metrics" />
 </p>
 
 ## 💡 **Impact Badges**
