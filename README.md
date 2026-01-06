@@ -125,13 +125,32 @@
 </p>
 
 
-## 🚀 GitHub Highlights
+## 🚀 GitHub Journey & Impact
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghanshyampratap&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph" />
-  <br><br>
-  <img src="https://raw.githubusercontent.com/ghanshyampratap/ghanshyampratap/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghanshyampratap&theme=radical&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Graph" alt="GitHub Contribution Graph" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ghanshyampratap&theme=radical&hide_border=true&border_radius=15" height="180" alt="GitHub Streak" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=ghanshyampratap&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyampratap&layout=compact&theme=radical&hide_border=true&border_radius=15" height="160" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ghanshyampratap/ghanshyampratap/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
 
 
 ## 💡 **Impact Badges**
