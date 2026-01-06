@@ -125,10 +125,12 @@
 </p>
 
 
-## 💬 Daily Dev Quote
+## 📊 GitHub Highlights
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ghanshyampratap&theme=radical&hide_border=true" alt="Streak Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=ghanshyampratap&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
 </p>
 
 
