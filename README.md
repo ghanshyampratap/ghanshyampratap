@@ -125,11 +125,12 @@
 </p>
 
 
-##  Daily  Quote
+##  Daily Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5E62&center=true&vCenter=true&width=800&lines=%22Innovation+starts+where+hardware+meets+intelligence.%22;%22IoT+is+not+about+things%2C+it's+about+connected+intelligence.%22;%22Embedded+systems+run+the+world+silently+but+powerfully.%22;%22VLSI+design+is+art+at+the+atomic+scale.%22" alt="IoT Quotes" />
 </p>
+
 
 
 
