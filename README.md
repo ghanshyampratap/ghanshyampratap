@@ -47,7 +47,6 @@
 
 <h1 align="center">Embedded Systems & IoT Developer | Tech Explorer</h1>
 
----
 
 ## 🛠 **TECH STACK**
 
@@ -70,7 +69,6 @@
   <img src="https://skillicons.dev/icons?i=java" title="Java" width="55" height="55" /> <sub><b>Java</b></sub>
 </p>
 
----
 
 ## 📊 **GitHub Stats & Achievements**
 
@@ -126,7 +124,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=🚀+Open+Source+Contributor;🔥+Passionate+Problem+Solver;🌎+Building+Impactful+Projects;✨+Always+Learning+%26+Growing" alt="Typing SVG" />
 </p>
 
----
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -135,7 +133,6 @@
   </a>
 </p>
 
----
 
 ## 💡 **Impact Badges**
 
@@ -152,7 +149,6 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Matrix Code Rain" />
 </p>
 
----
 
 ## 💬 **Let’s Connect**
 
