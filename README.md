@@ -125,12 +125,12 @@
 </p>
 
 
-## 📊 GitHub Highlights
+## 🚀 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ghanshyampratap&theme=radical&hide_border=true" alt="Streak Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=ghanshyampratap&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghanshyampratap&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/ghanshyampratap/ghanshyampratap/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </p>
 
 
