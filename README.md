@@ -10,7 +10,7 @@
 - **Robotics & IoT Startup Ideas | Open Source Contributor**  
 - **Emerging Technologies | Lifelong Learner**
 
-# 🌐 Connect With Me  
+#  Connect With Me  
 
 <p align="center">
   <a href="mailto:ghanshyamsingh85165@gmail.com">
@@ -48,7 +48,7 @@
 <h1 align="center">Embedded Systems & IoT Developer | Tech Explorer</h1>
 
 
-## 🛠 **TECH STACK**
+##  **TECH STACK**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c" title="C" width="55" height="55" /> <sub><b>C</b></sub>&nbsp;&nbsp;&nbsp;
@@ -70,7 +70,7 @@
 </p>
 
 
-## 📊 **GitHub Stats & Achievements**
+##  **GitHub Stats & Achievements**
 
 <p align="center">
   <img src="https://img.shields.io/badge/500%2B_Commits-Active_Contributor-brightgreen?style=for-the-badge&logo=github" />
@@ -98,7 +98,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyampratap&layout=compact&theme=radical&hide_border=true&border_radius=15" height="165" />
 </p>
 
-## 🧩 **Contributions & Impact**
+##  **Contributions & Impact**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Contributions-1000%2B-success?style=for-the-badge&logo=github&logoColor=white" />
@@ -131,7 +131,7 @@
 
 
 
-## 💡 **Impact Badges**
+##  **Impact Badges**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ghanshyampratap&color=brightgreen&style=for-the-badge" />
